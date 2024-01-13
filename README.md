@@ -9,7 +9,7 @@ Main Stacks:
 Others:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gradle,maven,spring,hibernate,dotnet,jenkins,jest,vim,vasm,vscode,visualcode" />
+  <img src="https://skillicons.dev/icons?i=gradle,maven,spring,hibernate,dotnet,jenkins,jest,vim,wasm,vscode,visualstudio" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,firebase,supabase,heroku,docker,kubernetes,grafana,prometheus,kafka,nginx,postman,redis" />
