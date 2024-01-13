@@ -1,12 +1,22 @@
 I'm a passionate, responsible, and committed seasoned Software Developer with over 10 years of experience, as a systems Analysis, Architecture, Design, Development, Testing, and Implementation of various Client/Server and Internet/Intranet applications, specifically as a software developer and with more than 10+ years Web and Mobile experience.
 
-Main Stack:
+Main Stacks:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,java,dotnet" />
+  <img src="https://skillicons.dev/icons?i=angular,java,cs" />
 </p>
 
+Others:
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gradle,maven,spring,hibernate,dotnet,jenkins,jest,vim,vasm,vscode,visualcode" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,firebase,supabase,heroku,docker,kubernetes,grafana,prometheus,kafka,nginx,postman,redis" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" />
+</p>
 
 I have participated in hundreds of successful implementations, and bring years of best practices experience to your engagement.
 
