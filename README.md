@@ -3,7 +3,7 @@ I'm a passionate, responsible, and committed seasoned Software Developer with ov
 Main Stacks:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,java,cs" />
+  <img src="https://skillicons.dev/icons?i=angular,react,python,java,cs" />
 </p>
 
 Others:
