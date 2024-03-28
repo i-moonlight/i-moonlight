@@ -1,4 +1,5 @@
-I'm a seasoned web and App developer with an extensive 10+ year journey in the ever-evolving world of web technologies and Mobile App development. 
+I'm a seasoned web and App developer with an extensive 10+ year journey in the ever-evolving world of web technologies and Mobile App development.
+
 My expertise spans a multitude of programming languages and frameworks, including but not limited to:
 
 Main Stacks:
