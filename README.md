@@ -1,4 +1,5 @@
-I'm a passionate, responsible, and committed seasoned Software Developer with over 10 years of experience, as a systems Analysis, Architecture, Design, Development, Testing, and Implementation of various Client/Server and Internet/Intranet applications, specifically as a software developer and with more than 10+ years Web and Mobile experience.
+I'm a seasoned web and App developer with an extensive 10+ year journey in the ever-evolving world of web technologies and Mobile App development. 
+My expertise spans a multitude of programming languages and frameworks, including but not limited to:
 
 Main Stacks:
 
@@ -17,6 +18,27 @@ Others:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux" />
 </p>
+
+### 🍯 Technical Stack
+- ☕ Python 𒑰 Java 𒑰 .NET
+- 📚 React 𒑰 Next.js 𒑰 Angular 𒑰 BootStrap 𒑰 jQuery 
+- 🎒 VS Code 𒑰 Postman 𒑰 Docker 𒑰 Chrome Developer Tools 𒑰 NPM 𒑰 Kubernetes
+- ⚡ MySQL 𒑰 PostgreSQL 𒑰 SQLite 𒑰 Microsoft SQL Server 𒑰 MongoDB
+- 🥇 AWS 𒑰 Azure 𒑰 GCP
+- 🌎 MochaJS 𒑰 Jest 𒑰 Jasmine 𒑰 EC2 𒑰 Firebase 𒑰 Supabase
+- 📣 Git 𒑰 Apache Supervision 𒑰 CVS
+- 🚩 Slack 𒑰 Discord 𒑰 Telegram 𒑰 Skype
+
+### 🚧 Current Projects
+- 🍃 RESTful Web Services & Web Services with Spring Boot
+- 🔗 Third Party API Integration & OAuth
+- 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
+- 💪 Node 𒑰 Django 𒑰 .NET 𒑰 Serverless 𒑰 PostgreSQL
+
+### 🌱 What I'm boosting
+- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
+- 📔 Swagger API Documentation
+- 🎩 DevOps 𒑰 CI/CD
 
 I have participated in hundreds of successful implementations, and bring years of best practices experience to your engagement.
 
