@@ -21,12 +21,13 @@ Others:
 </p>
 
 ### 🍯 Technical Stack
-- ☕ Python 𒑰 Java 𒑰 .NET
+- ☕ Python 𒑰 Java 𒑰 C#
 - 📚 React 𒑰 Next.js 𒑰 Angular 𒑰 BootStrap 𒑰 jQuery 
 - 🎒 VS Code 𒑰 Postman 𒑰 Docker 𒑰 Chrome Developer Tools 𒑰 NPM 𒑰 Kubernetes
 - ⚡ MySQL 𒑰 PostgreSQL 𒑰 SQLite 𒑰 Microsoft SQL Server 𒑰 MongoDB
+- 😎 Grafana 𒑰 Prometheus
 - 🥇 AWS 𒑰 Azure 𒑰 GCP
-- 🌎 MochaJS 𒑰 Jest 𒑰 Jasmine 𒑰 EC2 𒑰 Firebase 𒑰 Supabase
+- 🌎 MochaJS 𒑰 Jest 𒑰 Jasmine 𒑰 EC2 𒑰 Firebase 𒑰 Supabase 𒑰 NGINX
 - 📣 Git 𒑰 Apache Supervision 𒑰 CVS
 - 🚩 Slack 𒑰 Discord 𒑰 Telegram 𒑰 Skype
 
