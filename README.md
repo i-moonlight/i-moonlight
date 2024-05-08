@@ -22,7 +22,7 @@ Others:
 
 ### 🍯 Technical Stack
 - ☕ Python 𒑰 Java 𒑰 C#
-- 📚 React 𒑰 Next.js 𒑰 Angular 𒑰 BootStrap 𒑰 jQuery 
+- 📚 React 𒑰 Next.js 𒑰 Angular 𒑰 Vue 𒑰 BootStrap 𒑰 jQuery 
 - 🎒 VS Code 𒑰 Postman 𒑰 Docker 𒑰 Chrome Developer Tools 𒑰 NPM 𒑰 Kubernetes
 - ⚡ MySQL 𒑰 PostgreSQL 𒑰 SQLite 𒑰 Microsoft SQL Server 𒑰 MongoDB
 - 😎 Grafana 𒑰 Prometheus
